@@ -54,14 +54,15 @@ graph TD
     C -->|🤷‍♂️| J(
         A software project
         is never complete,
-        it's just 'good
-        enough for now'
+        it's just #quot;good
+        enough for now#quot;
     )
     E ~~~ C
     H ~~~ K[[
-        P.S. If you have an idea about an interesting ML project that uses Pytorch and solves a real problem,
-        don't let me know, or I will steal it... Or maybe do let me know, and we can collaborate on it...
+        P.S. If you have an idea for an interesting ML project that uses Pytorch and solves a real problem,
+        don't let me know, or I will steal it... Or maybe do let me know, and we can collaborate...
     ]]
+
 ```
 
 ---
