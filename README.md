@@ -2,10 +2,14 @@
 
 ### Here's where I’d describe myself using words like passion and innovation… but I’m an engineer 🤦‍♂️
 
+<details open>
+<summary><b> For Other Engineers 👨‍💻</b></summary>
+
 ```mermaid
 graph TD
+
     A{{SELF}} -->|💡| B[/Facts you didn’t ask for about myself\]
-    A -->|😵‍💫| C[/Things I learned the hard way\]
+
     B -->|👨‍🔬| D(
         I can code in
         Python, Typescript
@@ -39,6 +43,9 @@ graph TD
         just felt the need
         to let you know
     )
+
+    A -->|😵‍💫| C[/Things I learned the hard way\]
+
     C -->|🤯| H(
         The hardest part
         about writing code
@@ -57,13 +64,33 @@ graph TD
         it's just #quot;good
         enough for now#quot;
     )
-    E ~~~ C
+
     H ~~~ K[[
-        P.S. If you have an idea for an interesting ML project that uses Pytorch and solves a real problem,
-        don't let me know, or I will steal it... Or maybe do let me know, and we can collaborate...
+        P.S. If you have an idea for an interesting ML project that uses Pytorch and solves a real problem, I'm interested in hearing about it...
     ]]
 
+    E ~~~ C
 ```
+
+</details>
+
+<details>
+  <summary><b>Same Thing But For Suits 🤵‍♂️</b></summary>
+  
+- Facts you didn’t ask for about myself 💡:
+    - 👨‍🔬 I can code in Python, Typescript and C++, but my favorite algorithms are written in algebra, calculus and geometry.
+    - 🤝 Being the best is boring and being the worst is frustrating. I favor small teams of people who are good at what I’m not.
+    - 🌱 I have a track record of falling asleep in lectures, but give me a challenging problem and I'll learn the tools to solve it.
+    - 🛩 I’m also a pilot… just felt the need to let you know.
+
+- Things I learned the hard way 😵‍💫:
+  - 🤯 The hardest part about writing code is knowing when and how it's going to fail.
+  - 🥱 If the code I am writing doesn’t have a practical use, I lose interest rather fast.
+  - 🤷‍♂️ A software project is never complete, it's just "good enough for now".
+
+P.S. If you have an idea for an interesting ML project that uses Pytorch and solves a real problem, I'm interested in hearing about it...
+
+</details>
 
 ---
 
@@ -96,3 +123,4 @@ graph TD
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" alt="pytest" width="50" height="50"/>
 </p>
+
