@@ -3,7 +3,7 @@
 ### Here's where I’d describe myself using words like passion and innovation… but I’m an engineer 🤦‍♂️
 
 <details open>
-<summary><b> For Other Engineers 👨‍💻</b></summary>
+<summary><b> For Engineers 👨‍💻</b></summary>
 
 ```mermaid
 graph TD
@@ -45,6 +45,7 @@ graph TD
     )
 
     A -->|😵‍💫| C[/Things I learned the hard way\]
+    E ~~~ C
 
     C -->|🤯| H(
         The hardest part
@@ -61,15 +62,16 @@ graph TD
     C -->|🤷‍♂️| J(
         A software project
         is never complete,
-        it's just #quot;good
-        enough for now#quot;
+        it's just ''good
+        enough for now''
     )
 
-    H ~~~ K[[
-        P.S. If you have an idea for an interesting ML project that uses Pytorch and solves a real problem, I'm interested in hearing about it...
+    H ~~~ K[
+        PS: Have an ML project idea to solve a real problem using Pytorch? I want to hear about it
+    ]
+    K ~~~ L[[
+        PPS: A dude named Devin is WANTED for lying on its resume
     ]]
-
-    E ~~~ C
 ```
 
 </details>
@@ -84,11 +86,14 @@ graph TD
     - 🛩 I’m also a pilot… just felt the need to let you know.
 
 - Things I learned the hard way 😵‍💫:
+
   - 🤯 The hardest part about writing code is knowing when and how it's going to fail.
   - 🥱 If the code I am writing doesn’t have a practical use, I lose interest rather fast.
   - 🤷‍♂️ A software project is never complete, it's just "good enough for now".
 
-P.S. If you have an idea for an interesting ML project that uses Pytorch and solves a real problem, I'm interested in hearing about it...
+- PS: Have an ML project idea to solve a real problem using Pytorch? I want to hear about it.
+
+- PPS: A dude named Devin is WANTED for lying on its resume.
 
 </details>
 
@@ -123,4 +128,5 @@ P.S. If you have an idea for an interesting ML project that uses Pytorch and sol
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" alt="pytest" width="50" height="50"/>
 </p>
+
 
