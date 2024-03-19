@@ -12,7 +12,7 @@ graph TD
 
     B -->|👨‍🔬| D(
         I can code in
-        Python, Typescript
+        Python, JavaScript
         and C++, but my
         favorite algorithms
         are written in
@@ -80,7 +80,7 @@ graph TD
   <summary><b>Same Thing But For Suits 🤵‍♂️</b></summary>
   
 - Facts you didn’t ask for about myself 💡:
-    - 👨‍🔬 I can code in Python, Typescript and C++, but my favorite algorithms are written in algebra, calculus and geometry.
+    - 👨‍🔬 I can code in Python, JavaScript and C++, but my favorite algorithms are written in algebra, calculus and geometry.
     - 🤝 Being the best is boring and being the worst is frustrating. I favor small teams of people who are good at what I’m not.
     - 🌱 I have a track record of falling asleep in lectures, but give me a challenging problem and I'll learn the tools to solve it.
     - 🛩 I’m also a pilot… just felt the need to let you know.
