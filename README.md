@@ -1,101 +1,23 @@
 ![cover](./cover.png)
 
-### Here's where I’d describe myself using words like passion and innovation… but I’m an engineer 🤦‍♂️
+> [!NOTE]  
+> 🤦‍♂️ I was tempted to describe myself using terms like passionate, attention to detail and team player… instead, here are some:
 
-<details open>
-<summary><b> For Engineers 👨‍💻</b></summary>
+### Facts you didn’t ask for about myself
 
-```mermaid
-graph TD
-
-    A{{SELF}} -->|💡| B[/Facts you didn’t ask for about myself\]
-
-    B -->|👨‍🔬| D(
-        I can code in
-        Python, JavaScript
-        and C++, but my
-        favorite algorithms
-        are written in
-        algebra, calculus
-        and geometry
-    )
-    B -->|🤝| E(
-        Being the best
-        is boring and
-        being the worst
-        is frustrating.
-        I favor small
-        teams of people
-        who are good at
-        what I’m not
-    )
-    B -->|🌱| F(
-        I have a track
-        record of falling
-        asleep in lectures,
-        but give me a
-        challenging problem
-        and I'll learn the
-        tools to solve it
-    )
-    B -->|🛩| G(
-        I’m also a pilot…
-        just felt the need
-        to let you know
-    )
-
-    A -->|😵‍💫| C[/Things I learned the hard way\]
-    E ~~~ C
-
-    C -->|🤯| H(
-        The hardest part
-        about writing code
-        is knowing when and
-        how it's going to fail
-    )
-    C -->|🥱| I(
-        If the code I am
-        writing doesn’t have a
-        practical use, I lose
-        interest rather fast
-    )
-    C -->|🤷‍♂️| J(
-        A software project
-        is never complete,
-        it's just ''good
-        enough for now''
-    )
-
-    H ~~~ K[
-        PS: Have an ML project idea to solve a real problem using Pytorch? I want to hear about it
-    ]
-    K ~~~ L[[
-        PPS: A dude named Devin is WANTED for lying on its resume
-    ]]
-```
-
-</details>
-
-<details>
-  <summary><b>Same Thing But For Suits 🤵‍♂️</b></summary>
-  
-- Facts you didn’t ask for about myself 💡:
-    - 👨‍🔬 I can code in Python, JavaScript and C++, but my favorite algorithms are written in algebra, calculus and geometry.
-    - 🤝 Being the best is boring and being the worst is frustrating. I favor small teams of people who are good at what I’m not.
-    - 🌱 I have a track record of falling asleep in lectures, but give me a challenging problem and I'll learn the tools to solve it.
-    - 🛩 I’m also a pilot… just felt the need to let you know.
-
-- Things I learned the hard way 😵‍💫:
+- 🤓 I can code in Python, JavaScript and C++, but my favorite algorithms are written in algebra, calculus and geometry.
+- 🌱 I have a track record of falling asleep in lectures, but I can master complicated tools when faced with challenging problems.
+- 🧪 I have a love/hate relationship with writing tests… But in the end, it’s always worth it.
+- 😵‍💫 Things I learned the hard way:
 
   - 🤯 The hardest part about writing code is knowing when and how it's going to fail.
-  - 🥱 If the code I am writing doesn’t have a practical use, I lose interest rather fast.
+  - 💩 Using `any` in TypeScript is not a clever hack, it's laziness!
   - 🤷‍♂️ A software project is never complete, it's just "good enough for now".
 
-- PS: Have an ML project idea to solve a real problem using Pytorch? I want to hear about it.
+- 🛩 I’m also a pilot… just felt the need to let you know.
 
-- PPS: A dude named Devin is WANTED for lying on its resume.
-
-</details>
+> [!WARNING]  
+> A bloke named Devin is replacing us all!!!
 
 ---
 
@@ -128,5 +50,3 @@ graph TD
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" alt="pytest" width="50" height="50"/>
 </p>
-
-
